@@ -65,7 +65,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/CodeWithSurya/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
@@ -83,7 +83,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/CodeWithSurya/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
 sudo bash TBomb.sh
@@ -152,10 +152,10 @@ sudo bash TBomb.sh
 Feel free to open a issue if you have seen any.
 
 ```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
+                 Mail: codewithsuryaa@gmail.com<br>
+       YouTube Channel: https://youtu.be/2aw2N-O483Y
 ```
 
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
+<a href="https://youtu.be/2aw2N-O483Y">Check Out My YouTube Channel</a>
 
 <!-- L3yvMKWbLJAermqvZT1vKmDkGwqsZmD1rK0= -->
